@@ -2,6 +2,6 @@ This repository contains Mautic translation packs which are automatically built 
 
 For a list of available languages see the repository [manifest](manifest.json)
 
-Each language pack is stored as a zip file named <locale>.zip.
+Each language pack is stored as a zip file named `<locale>.zip`.
   
 Packages are rebuilt from Transifex once a day.
