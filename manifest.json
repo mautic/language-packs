@@ -66,6 +66,11 @@
       "author": "Mautic Translators"
     },
     {
+      "name": "Estonian",
+      "locale": "et",
+      "author": "Mautic Translators"
+    },
+    {
       "name": "Basque",
       "locale": "eu",
       "author": "Mautic Translators"
@@ -203,6 +208,11 @@
     {
       "name": "Vietnamese (Viet Nam)",
       "locale": "vi_VN",
+      "author": "Mautic Translators"
+    },
+    {
+      "name": "Chinese Simplified",
+      "locale": "zh-Hans",
       "author": "Mautic Translators"
     },
     {
