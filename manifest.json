@@ -101,6 +101,11 @@
       "author": "Mautic Translators"
     },
     {
+      "name": "Hindi (India)",
+      "locale": "hi_IN",
+      "author": "Mautic Translators"
+    },
+    {
       "name": "Hungarian",
       "locale": "hu",
       "author": "Mautic Translators"
