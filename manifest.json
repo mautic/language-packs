@@ -16,6 +16,11 @@
       "author": "Mautic Translators"
     },
     {
+      "name": "Bosnian (Bosnia and Herzegovina)",
+      "locale": "bs_BA",
+      "author": "Mautic Translators"
+    },
+    {
       "name": "Catalan (Spain)",
       "locale": "ca_ES",
       "author": "Mautic Translators"
@@ -123,6 +128,11 @@
     {
       "name": "Hindi (India)",
       "locale": "hi_IN",
+      "author": "Mautic Translators"
+    },
+    {
+      "name": "Croatian (Croatia)",
+      "locale": "hr_HR",
       "author": "Mautic Translators"
     },
     {
